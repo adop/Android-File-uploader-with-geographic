@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QualityReport</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_frame">监测报告</string>
+    <string name="pick_file_type">选择文件类型</string>
+    <string name="action_delete">删除选中文件</string>
+    <string name="action_import">导入文件</string>
+    <string name="action_exit">退出应用</string>
+    <string name="title_activity_open_type">OpenTypeA</string>
+    <string name="title_activity_open_type_b">OpenTypeB</string>
+    <string name="title_activity_open_type_c">OpenTypeC</string>
+	<string name="type_a">文件类型a</string>
+	<string name="type_b">文件类型b</string>
+	<string name="type_c">文件类型c</string>
+	<string name="edit_message_title">输入标题</string>
+	<string name="edit_message_body1">输入正文1</string>
+	<string name="edit_message_body2">输入正文2</string>
+	<string name="edit_message_body3">输入正文3</string>
+	<string name="edit_message_end">输入总结</string>
+</resources>
